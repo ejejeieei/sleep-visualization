@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 streamlit
 pyedflib
 mne>=1.0
@@ -6,5 +8,5 @@ numpy
 pandas
 scipy
 plotly
+python-multipart
 torch
-scikit-learn
